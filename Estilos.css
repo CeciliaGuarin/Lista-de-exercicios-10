@@ -1,0 +1,33 @@
+body {
+    background-image: linear-gradient( 90deg, #1c97ad 10%, #d8c93f 100%);
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    margin: auto;
+     width: 30%;
+     padding: 10px;
+  }
+ 
+     h1,h3 {
+        margin: 0;
+       color : rgb(0, 0, 0);
+      }
+
+      h1 {
+        font-size: 66px;
+      }
+      .inputs[type=number] {
+    height: 30px;
+    width: 200px;
+    font-size: 26px;
+}
+
+
+      p{
+          font-size:30px;
+      }
+      img {
+        height: 120px;
+        width: 120px;
+    }
